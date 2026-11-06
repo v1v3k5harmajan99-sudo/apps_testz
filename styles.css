@@ -1,0 +1,7 @@
+body{font-family:system-ui,Arial,sans-serif;margin:0;background:#f5f7fa;color:#1a2332}
+header{background:#1766d6;color:#fff;padding:16px 24px}
+nav a{color:#fff;margin-right:16px;text-decoration:none}
+main{max-width:760px;margin:24px auto;background:#fff;padding:24px;border-radius:10px;box-shadow:0 1px 4px rgba(0,0,0,.08)}
+input,button{font-size:15px;padding:8px 10px;margin:4px 0}
+table{border-collapse:collapse;width:100%}td,th{border:1px solid #dde3ec;padding:8px;text-align:left}
+.btn{background:#1766d6;color:#fff;border:none;border-radius:6px;cursor:pointer}
