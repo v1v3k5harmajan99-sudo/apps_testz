@@ -1,0 +1,10 @@
+node_modules/
+test-results/
+playwright-report/
+blob-report/
+test-traces/
+test-videos/
+test-screenshots/
+test-shots/
+.auth/
+.env
